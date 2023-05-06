@@ -24,4 +24,5 @@ rectangle ホテル予約システム {
 キャンペーン価格にする ..> input : <<extend>>
 ログイン ..> 会員登録 : <<include>>
 input ..> ログイン : <<include>>
+会員登録 ..>input : <<extend>>
 @enduml
