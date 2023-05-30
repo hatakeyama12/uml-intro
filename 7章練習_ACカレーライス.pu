@@ -12,6 +12,7 @@ fork again
 :お米を炊く;
 end fork
 :盛り付ける;
+:カレーライス]
 stop
 
 @enduml
